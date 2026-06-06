@@ -50,12 +50,6 @@ PORT=3099 npm start
 npm run dev
 ```
 
-بارگذاری لیست سرورها از یک آدرس خارجی (به‌جای لیست استاتیک):
-
-```bash
-PUREVPN_SERVER_LIST_URL=https://example.com/purevpn-servers.json npm start
-```
-
 ## 📡 API
 
 | متد و مسیر | توضیح |
