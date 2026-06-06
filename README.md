@@ -30,6 +30,8 @@
 ## 🛠 اجرا
 
 ```bash
+git clone https://github.com/ScannerVpn/PureVpn.git
+cd PureVpn
 npm install
 npm start
 ```
